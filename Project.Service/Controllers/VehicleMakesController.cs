@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using Project.Service.DAL;
 using Project.Service.Models;
 
 namespace Project.Service.Controllers
